@@ -1,0 +1,23 @@
+.filters-container {
+    margin-block: 40px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+
+.filters-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.filters-select {
+    height: 30px;
+}

@@ -1,0 +1,7 @@
+.main {
+    max-width: 1500px;
+    box-sizing: border-box;
+    margin: auto;
+    background-color: rgb(197, 197, 197);
+    padding: 50px;
+}
